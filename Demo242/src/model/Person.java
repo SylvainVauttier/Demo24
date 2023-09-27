@@ -34,4 +34,6 @@ public class Person {
 	public void setWeight(int weight) {
 		this.weight = weight;
 	}
+	
+	String address;
 }
