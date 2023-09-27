@@ -1,5 +1,6 @@
 package model;
 
+// class person
 
 public class Person {
 	
